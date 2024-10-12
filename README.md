@@ -2,8 +2,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 I'm Siski Angelini
 
-I'm a college student from Universitas Kristen Satya Wacana. Now I'm currently working on a Qua-Edutechno Startup Company.
-
 *   🌍  I'm based in Indonesia
 *   🤝  I'm open to collaborating on Software Development
 
